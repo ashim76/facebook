@@ -1,0 +1,119 @@
+.body {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #f0f2f5;
+    width: 100;
+}
+
+.f-con {
+    padding: 12rem;
+    justify-content: center;
+    margin-left: 6rem;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 4rem;
+    font-family: 'Roboto', sans-serif;
+    color: #1778f2;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    position: relative;
+    margin: 10rem;
+    padding: 10rem;
+}
+
+.form {
+    background-color: white;
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    padding: 118px 5px 50px 40px;
+    /* margin: 10vh, 850px; */
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px -9px;
+    margin-left: 60rem;
+    margin-top: 8rem;
+}
+
+input[type='text'],
+input[type='password'] {
+    display: block;
+    background-color: #ffff;
+    margin: auto;
+    border: 1px solid rgb(209, 199, 199);
+    width: 200px;
+    padding: 10px 70px;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+button {
+    border: none;
+    background-color: #1778f2;
+    color: whitesmoke;
+    margin: auto;
+    width: 340px;
+    display: block;
+    border-radius: 5px;
+    padding: 10px 0;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn2 {
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    background: #42b72a;
+    text-align: center;
+}
+
+.f-pwd {
+    display: block;
+    width: 200px;
+    margin: auto;
+    color: #1877f2;
+    padding-left: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+
+.line {
+    border-top: 2px solid #222;
+    opacity: 0.1;
+    padding: 5px;
+}
+
+.con-2 {
+    padding: 10px 0;
+    margin: auto;
+    padding-left: 20px;
+    color: black;
+    text-decoration: none;
+    padding-bottom: 20rem;
+}
+
+.con-2 a {
+    text-decoration: none;
+    color: black;
+}
+
+.con-2 a:hover {
+    color: cornflowerblue;
+}
